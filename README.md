@@ -6,7 +6,7 @@ Links to projects, linkedin, and resume.
 AI / Backend Engineer focused on building machine learning applications, containerized systems, and scalable backend platforms.
 
 🎓 B.S. Information Technology  
-💻 Python • TensorFlow • Django • Docker • SQL  
+💻 Python • TensorFlow • Django • Docker • SQL • Jenkins 
 🌎 Open to AI Engineering, DevOps, and Cloud Engineering roles
 
 ## 🚀 Featured Projects
